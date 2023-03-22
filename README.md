@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [rating_page](interactive-rating-page-dgjclghfr-abinesh2002.vercel.app)
+- Live Site URL: [rating_page](https://main--dashing-rolypoly-a89d2d.netlify.app/)
 
 ## My process
 
