@@ -20,8 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [rating_page](interactive-rating-page-dgjclghfr-abinesh2002.vercel.app)
 
 ## My process
 
